@@ -1,11 +1,11 @@
 # Asma Khalil
 
 ## 🌟 Introduction
-Welcome! I'm Asma, equipped with a Master's in Data and Artificial Intelligence from Télécom Paris and an Engineering degree in Artificial Intelligence from ENSTA Paris. I specialize in applying AI to solve complex challenges across industries, with a recent focus on financial data analytics and model auditing.
+Welcome! I'm Asma, equipped with a Master's in Data and Artificial Intelligence from Télécom Paris and an Engineering degree in Artificial Intelligence from ENSTA Paris. I specialize in applying AI to solve complex challenges across industries.
 
 ## 🎓 Educational Background
 - **Télécom Paris**
-  - MSc in Data and Artificial Intelligence, December 2024
+  - Master 2 in Data and Artificial Intelligence, December 2024
 - **ENSTA Paris**
   - Engineering Degree in AI, December 2024
 
