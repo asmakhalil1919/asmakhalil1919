@@ -15,14 +15,6 @@ Welcome! I'm Asma, equipped with a Master's in Data and Artificial Intelligence 
 - **Technologies:** Docker, Kubernetes, Hadoop, MongoDB
 - **Domains:** Machine Learning, NLP, Data Visualization, Predictive Analytics
 
-## 🔍 Key Projects
-- **AML Scoring Model Optimization**
-  - Enhanced financial auditing capabilities at BNP Paribas through advanced analytics and machine learning.
-- **Hybrid Anomaly Detection System**
-  - Designed and implemented to improve accuracy and efficiency in identifying financial irregularities.
-- **Data Extraction Automation**
-  - Developed tools for automated processing of unstructured financial data sources, significantly reducing manual effort.
-
 ## 🌐 Looking Forward
 I am on the lookout for challenging opportunities in Data Science where I can use my skills to drive innovation and create value. Interested in collaborating on projects or discussing potential roles? Let's connect!
 
