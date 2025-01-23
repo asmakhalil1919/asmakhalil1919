@@ -14,7 +14,8 @@ Welcome! I'm Asma, equipped with a Master's in Data and Artificial Intelligence 
 - **Frameworks/Libraries:** PyTorch, Keras, Pandas, NumPy, Matplotlib
 - **Technologies:** Docker, Kubernetes, Hadoop, MongoDB
 - **Domains:** Machine Learning, NLP, Data Visualization, Predictive Analytics
-
+## 🌍 Publications
+https://medium.com/@asma.khalil/tackling-the-challenges-of-anomaly-detection-with-hybrid-ai-models-3be0a3a9b15b
 ## 🌐 Looking Forward
 I am on the lookout for challenging opportunities in Data Science where I can use my skills to drive innovation and create value. Interested in collaborating on projects or discussing potential roles? Let's connect!
 
