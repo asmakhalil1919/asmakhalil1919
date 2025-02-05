@@ -20,7 +20,7 @@ https://medium.com/@asma.khalil/tackling-the-challenges-of-anomaly-detection-wit
 I am on the lookout for challenging opportunities in Data Science where I can use my skills to drive innovation and create value. Interested in collaborating on projects or discussing potential roles? Let's connect!
 
 ## 📫 How to Reach Me
-- **Email:** [asma.khalil@ensta-paris.fr](mailto:asma.khalil@ensta-paris.fr)
+- **Email:** [asmakhalil421@gmail.com](mailto:asmakhalil421@gmail.com)
 - **LinkedIn:** [Visit my profile](https://www.linkedin.com/in/asma-khalil-71a52b239/)
 - **GitHub:** [Check out my projects](https://github.com/asmakhalil1919)
 
